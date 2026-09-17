@@ -1,0 +1,8 @@
+{
+  "name": "hello-test",
+  "description": "Throwaway skill that confirms skill loading works",
+  "version": "0.1.0",
+  "author": {
+    "name": "Aditya Bansal"
+  }
+}
