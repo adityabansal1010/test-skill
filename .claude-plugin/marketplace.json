@@ -1,0 +1,18 @@
+{
+  "name": "test-skill",
+  "owner": {
+    "name": "Aditya Bansal"
+  },
+  "description": "Throwaway marketplace for testing Claude Code plugin installs",
+  "plugins": [
+    {
+      "name": "hello-test",
+      "source": "./plugins/hello-test",
+      "description": "Throwaway skill that confirms skill loading works",
+      "version": "0.1.0",
+      "author": {
+        "name": "Aditya Bansal"
+      }
+    }
+  ]
+}
